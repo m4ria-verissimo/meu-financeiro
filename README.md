@@ -1,35 +1,52 @@
-# MeuFinanceiro 💰
+# 💰 Meu Financeiro
 
-Aplicação web para controle financeiro pessoal. Permite registrar receitas e despesas, visualizar saldo total e filtrar lançamentos por mês.
+Projeto de aplicação web voltado para controle financeiro pessoal, com foco em organização de receitas, despesas e visualização de dados financeiros.
 
-### 🔗 Acesse o projeto
-[Ver online](https://m4ria-verissimo.github.io/MeuFinanceiro/)
+---
 
-### 🚀 Funcionalidades
-- Adicionar receitas e despesas com descrição, valor e data
-- Cálculo automático de saldo, entradas e saídas totais
-- Filtro por mês para visualizar lançamentos específicos
-- Remover transações individuais
-- Dados salvos no localStorage do navegador
+## 💡 Sobre o projeto
 
-### 🛠️ Tecnologias utilizadas
-- HTML5
-- CSS3
-- JavaScript
+Este projeto tem como objetivo simular um sistema de controle financeiro pessoal, permitindo o registro e organização de movimentações financeiras.
 
-### 📚 O que aprendi com este projeto
-- Manipulação do DOM com JavaScript puro
-- Uso de localStorage para persistir dados no navegador
-- Validação de formulários e tratamento de inputs
-- Lógica de filtros e renderização dinâmica de listas
-- Organização de código com funções e modularização
+A ideia é facilitar o acompanhamento de gastos e receitas de forma simples e funcional.
 
-### 🎯 Próximos passos
-- [ ] Adicionar gráficos com Chart.js
-- [ ] Exportar relatório em PDF
-- [ ] Versão dark mode
+---
 
-### 👩‍💻 Desenvolvido por
-Maria Eduarda Verissimo  
-[LinkedIn](https://www.linkedin.com/in/MariaEduarda-Verissimo) | [Portfólio](https://m4ria-verissimo.github.io/CurriculoDevMariaEduardaVerissimo/)
+## 🌐 Acesso ao projeto
 
+🔗 https://m4ria-verissimo.github.io/meu-financeiro/
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub Pages  
+
+---
+
+## 📌 Funcionalidades
+
+- Registro de receitas e despesas  
+- Organização de dados financeiros  
+- Visualização simples de valores  
+- Interface prática e objetiva  
+
+---
+
+## 🚀 Melhorias futuras
+
+- Adicionar gráficos de evolução financeira  
+- Melhorar interface visual  
+- Criar categorias de gastos  
+- Adicionar armazenamento de dados (localStorage ou banco de dados)  
+- Melhorar responsividade  
+
+---
+
+## 👩‍💻 Desenvolvido por
+
+Maria Veríssimo  
+Estudante de Análise e Desenvolvimento de Sistemas
